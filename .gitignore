@@ -29,8 +29,8 @@ frontend/logs/
 
 backend/.tmp/
 backend/pytest-cache-files-*/
+backend/exports/
 
 *.db
 *.sqlite
 *.sqlite3
-
